@@ -1,0 +1,95 @@
+Namita Shiurkar namitashiurkar@gmail.com | 713-493-8434
+ Dynamic technology leader with a proven track record in driving collaboration, design, development, and optimization of technology and processes to enhance business performance. Recognized for effective people leadership, problem-solving skills, and team-building expertise. Committed to fostering relationships across teams and continuously developing leadership abilities to guide teams toward success and revenue growth.
+
+Strengths 
+Technology Leadership | Strategic Planning | Talent Development and Motivation | Growth Mindset | Process Improvement | Cloud Migration | Cross-functional Collaboration | Agile Practices | System Architecture | ITSM, ITAM and ITRM Processes | IT Finance | Analytical and Quantitative approach | 
+
+Technical Skills
+
+Cloud technology - Azure and AWS
+Languages - C#.Net, .Net Core, Java, JSP, JavaScript, HTML, MVC Web Services –RESTFUL services, Micro Services, WCF, SOAP, IIS, WebSphere, Open Web Interface (OWIN) Frameworks -Testing frameworks - XUnit, NUnit, Moq Auto Fixture, Log4Net, Elastic Search, Kafka, Kibana Source Control - Git, TFS, SVN  
+Agile tools – AzDo, Jira, TFS, GO, JENKINS Database - SQL, Oracle and MongoDB 
+Middleware – Azure event bus, Tibco Queue, MSMQ, IBM MQ Monitoring – Dynatrace, App Dynamics, Spot Fire, FullStory 
+Professional Summary
+
+•	Built 4 high performing agile teams with teammates across the globe, created an environment that promotes learning, enabling resources to resolve and remove their own obstacles, while supporting individuals and teams to learn from failing fast.
+•	Built valuable connections across the organization and with vendor teams to hire qualified resources for all my teams onsite, near-shore and off-shore. 
+•	Employed a lean leadership style, one that focuses on developing skills and career path for team members.
+•	Recruited and retained capable individuals to build, high-performant teams, established mission and purpose for individuals and teams.
+•	Performed career coaching and personal development; provided guidance and corrective actions.
+
+•	Achieved significant improvement in all 4 areas of the accelerate metrics – Lead Time, Deployment Frequency, Mean Time to Resolve and Change Failure Rate by more than 30%.
+•	Partnered with Product, Business, Operations and Security leaders to deliver robust, cloud-based and secure solutions for our customers. Migrated the product out of on-premises data center to Azure. Successfully strategized and executed on the technical debt reduction plan while delivering on our KPIs and customer business goals. Improved security score by 30 points within a year.
+•	Achieved product stability by permanently resolving hundreds of incidents within a year. 
+•	Established sustainable processes by adopting the monitoring and observability platform for proactive problem reduction, automated processes and best practices of software development life cycle. 
+•	Created an environment of transparency where facts are always friendly, so that individuals and teams feel free to innovate, experiment, and communicate openly and honestly with all stakeholders.
+•	Collaborated with cross functional leaders to eliminate impediments and evolve systems and practices in support of Lean-Agile development.
+•	Collaborated with product managers, architects and SME’s from business and applications team to design solutions
+•	Earlier in United Airlines, worked on Product transformation of Oversale process to cloud driven, micro-service architecture to help improve customer and employee satisfaction. First phase resulted into $15M savings in compensation for oversale. Customers loved the self-rebook option during the check-in process to manage oversold situation. 
+•	Initiated a product transformation of legacy Seats application to adapt a domain driven, micro-service-oriented architecture. Showcased a POC in 2018 to product team and quickly delivered a scalable enterprise solution for the Seats Platform in AWS Cloud. The services are currently used by all booking channels of United Airlines including web, mobile, self-service kiosks, agents and third-party portals.
+•	In 2018, partnered with business and several other engineering teams to deliver sellable seat products such as Preferred Zone seats, Basic Economy seats and United Premium Plus seats. This was a large effort that was delivered within a short amount of time with excellent planning and execution, generating an additional $1M ancillary revenue per day for the airline.
+•	Earned outstanding performance reviews, praises and recognition as the cross-functional subject matter expert (SME) across multiple domains, successfully led the team by frequently aligning goals with the senior leadership, earned Bravo badges for Saving the Day, Being Dependable, Flying Above and Beyond
+
+
+Senior Manager of Software Development – AvidXchange					     2023 - Present
+
+•	Leading and providing guidance to people leaders in my organization 
+•	Leading and providing guidance to developers and test automation engineers in the development and support of enterprise applications – AvidStrongroom and AvidUtility
+•	Collaborating with product teams in various stages of effort estimation for enterprise initiatives, refining technical roadmap, ensuring and managing PMO expectations  
+•	Managing completion of full system implementations, system upgrades, regulatory upgrades, audits, organizational redesign & infrastructure improvements.
+•	Effectively managing the communication with senior leadership by transparent updates
+
+Manager of Software Development – AvidXchange 						     2020 - 2023
+
+•	Significantly expanded development team by hiring full-time senior engineers and near-shore contractors
+•	Spent efforts in bringing the culture of collaboration and self-learning within the team
+•	Prepared a long-term plan for modernization and tech-debt reduction
+•	Delivered key features around PO matching functionality to help the sales team enter new markets
+•	Kicked off execution of modernization efforts by building Azure services
+•	Collaborated with Product, Operations and Architecture leadership to establish sustainable and efficient processes around product stability. 
+•	In 2022, migrated all environments from on-premises data center to Azure using lift and shift approach.
+•	Improved accelerate metrics by more than 30% hitting the engineering goal. 
+
+Manager of Application Development - Flight Operations – United Airlines			      2019 - 2020 
+•	Redesigned the oversale process to enhance the agent experience at the gate and lobby.
+•	Rearchitected the system to provide a seamless workflow for gate agents with the JET platform.
+•	Employed a product-centric delivery approach by integrating agent feedback into the design process.
+•	Utilized Agile methodologies to deliver incremental products, ensuring high-quality code through automated testing and a CI/CD pipeline.
+•	Collaborated with offshore vendor Infosys on detailed Statements of Work (SOW).
+•	Trained both on-site and offshore developers on best practices in software development.
+
+Manager of Application Development Seats Platform – United Airlines 			2015 – 2019
+
+•	Modernized the seats platform by rearchitecting and migrating to a cloud-based architecture using domain-driven microservices.
+•	Delivered sellable seat products in 2018, generating an additional $1M per day in revenue for United Airlines.
+•	Advocated for Agile practices while effectively navigating non-Agile, traditional settings.
+•	Led efforts to deliver quality products, resulting in 1,000+ automated tests and approximately 80% code coverage.
+•	Hired and mentored junior developers, fostering a self-driven team environment.
+•	Hands-on experience with C#.Net, MongoDB, SQL Server, Git, and Jira.
+•	Knowledgeable in logging and monitoring tools such as Elasticsearch, Kafka, Kibana, AppDynamics
+•	Collaborated with the infrastructure team to secure hardware and cloud resources via ServiceNow.
+•	Partnered with PMO for budgeting, forecasting, and resource estimates.
+•	Engaged third-party vendors to secure resources for enterprise initiatives.
+•	Provided coaching to team members and conducted regular performance reviews and feedback sessions.
+ 
+Manager of Application Development - E-ticket Receipts Platform – United Airlines		2012 - 2015  
+•	Owned the e-ticket receipts platform from concept to production deployment before the adoption of Agile methodologies.
+•	Collaborated with business stakeholders during the merger of Continental and United Airlines to enhance platform features, meeting the needs of both the companies.
+•	Partnered with the database team to optimize performance, addressing concerns and stabilizing the application for short-term functionality.
+•	Initiated the re-architecture of the Receipts platform, presenting risks and opportunities to senior leadership to secure buy-in for the project.
+•	Worked with PMO and business units on high-level design, estimates, resource allocation, and timeline planning for the enterprise product.
+•	Generated and maintained the product roadmap, facilitating backlog grooming and ensuring smooth transition to the new development team.
+
+Senior Software Engineer - Flight and Fares - Continental Airlines				2011 – 2012 
+•	Analyze the need for the software component, identify the right technology, develop the software, and integrate it with the rest of the components.
+•	Exposed the Automated Ticketing Reprice Engine through a web service to other components that require Pricing, Fares and Fare Rules.
+•	Design, develop, test, deploy web service and other components
+
+Education
+•	Master of Business Administration: University of Houston, Texas - Bauer College of Business
+•	Bachelor of Science in Computer Engineering: University of Pune - Government College of Engineering
+
+Volunteering and interests
+•	Passionate about children’s education and well-being.
+•	Active involvement in non-profits such as Houston Food Bank, Rise Against Hunger, Pratham, and Project Cure.
+•	Enjoy traveling, painting, and mentoring women in technology.
